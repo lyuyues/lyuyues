@@ -1,6 +1,6 @@
 ### Yue Lyu
 
-PhD student in Computer Science (HCI) at the University of Waterloo. I build interactive systems that model what people need from how they behave, and adapt AI-driven interfaces to them, with a focus on autistic children and their caregivers.
+PhD student in Computer Science (HCI) at the University of Waterloo. I build interactive systems that model what people need from how they behave, and adapt AI-driven interfaces to them.
 
 **Papers**
 - **ATCion** — icon-based visual aids for in-cockpit air traffic control communication · UIST 2025 · [paper](https://doi.org/10.1145/3746059.3747792)
