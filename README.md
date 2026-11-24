@@ -3,9 +3,9 @@
 PhD student in Computer Science (HCI) at the University of Waterloo. I build interactive systems that model what people need from how they behave, and adapt AI-driven interfaces to them.
 
 **Research projects**
-- **ATCion** — icon-based visual aids for in-cockpit air traffic control communication · UIST 2025 · [paper](https://doi.org/10.1145/3746059.3747792) · code: [ATC_NLP](https://github.com/lyuyues/ATC_NLP) (speech recognition on noisy ATC audio)
-- **EMooly** — AI-infused AR activities for collaborative social-emotional learning with caregivers · IMWUT 2024 · [paper](https://doi.org/10.1145/3699738)
-- **Eggly** — mobile AR neurofeedback training games · IMWUT 2023 · [paper](https://doi.org/10.1145/3596251)
+- **ATCion** — icon-based visual aids for in-cockpit air traffic control communication · UIST 2025 · DOI: [10.1145/3746059.3747792](https://doi.org/10.1145/3746059.3747792) · code: [ATC_NLP](https://github.com/lyuyues/ATC_NLP) (speech recognition on noisy ATC audio)
+- **EMooly** — AI-infused AR activities for collaborative social-emotional learning with caregivers · IMWUT 2024 · DOI: [10.1145/3699738](https://doi.org/10.1145/3699738)
+- **Eggly** — mobile AR neurofeedback training games · IMWUT 2023 · DOI: [10.1145/3596251](https://doi.org/10.1145/3596251)
 - **VideoASD** — scaffolded, co-creative video interaction · [demo repo](https://github.com/lyuyues/videoasd-demo)
 - **SENSE** — play-based sensory preference capture → personalized preparation video · [demo repo](https://github.com/lyuyues/sense-demo)
 
